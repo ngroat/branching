@@ -4,3 +4,7 @@
 - Initial release
 - do my work
 - more work
+- asdf
+- asdf
+
+#### Version 0.2.1
